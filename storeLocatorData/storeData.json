@@ -1,0 +1,32 @@
+{
+    "stores": [
+        {
+            "state": "Karnataka",
+            "city":"Bangalore",
+            "latitude": 12.8872242,
+            "longitude": 77.5796373,
+            "name":"Big Bazaar"
+        },
+        {
+            "state": "Maharastra",
+            "city":"Mumbai",
+            "latitude": 19.1269696,
+            "longitude": 72.7672933,
+            "name":"Reliance Fresh"
+        },
+        {
+            "state": "Uttar Pradesh",
+            "city":"Lucknow",
+            "latitude": 26.7500107,
+            "longitude": 81.1568582,
+            "name":"Fresh & more Supermarket"
+        },
+        {
+            "state":"Haryana",
+            "city":"Sirsa",
+            "latitude":29.5471895,
+            "longitude":74.7112545,
+            "name":"Grocery Daily"
+        }
+    ]
+}
